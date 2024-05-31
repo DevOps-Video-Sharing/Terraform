@@ -1,0 +1,8 @@
+gke-project-423206-c716132d034c.json
+.env
+terraform.tfvars
+variables.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+.terraform.lock.hcl
