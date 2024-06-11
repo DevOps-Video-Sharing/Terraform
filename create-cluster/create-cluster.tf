@@ -1,4 +1,4 @@
-resource "google_container_cluster" "gke_cluster" {
+resource "google_container_cluster" "autopilot_create_cluster" {
   name     = "autopilot-cluster-2"
   location = var.region
   enable_autopilot = true
