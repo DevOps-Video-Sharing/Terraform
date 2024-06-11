@@ -1,5 +1,5 @@
 resource "google_container_cluster" "gke_cluster" {
-  name     = "test-create-cluster"
+  name     = "autopilot-cluster-2"
   location = var.region
   enable_autopilot = true
   initial_node_count = 1
